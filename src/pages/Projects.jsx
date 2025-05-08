@@ -5,7 +5,7 @@ const projectList = [
   {
     title: "🌐 Portfolio Website",
     description: "A personal portfolio built using React, Bootstrap, and Framer Motion for smooth animations.",
-    github: "https://github.com/harrishragavan/my-portfolio.git",
+    github: "https://github.com/harrishragavan/portfolio",
     demo: "",  
   },
   {
